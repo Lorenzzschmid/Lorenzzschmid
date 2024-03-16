@@ -2,10 +2,7 @@
 ##junior Fullstack Developer from Berlin, 
 
 ---
-- I studied Web Development at DCI Berlin
-- Happy to collaborate on your project
-- I love coding and cyber-security!!
-- I am open to work!
+- I create secure web applications. 
 - Write me a message: schmid_lorenz@gmx.net
 
 <hr>
