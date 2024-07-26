@@ -1,5 +1,5 @@
 ### Hi I am Lorenz, 
-##junior Fullstack Developer from Berlin, 
+##Fullstack Developer from Berlin, 
 
 ---
 - I create secure web applications. 
