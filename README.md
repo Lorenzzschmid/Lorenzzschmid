@@ -2,7 +2,7 @@
 ##Fullstack Developer from Berlin, 
 
 ---
-- I create secure web applications. 
+- I am growing in building and understanding secure web applications. 
 - Write me a message: schmid_lorenz@gmx.net
 
   
