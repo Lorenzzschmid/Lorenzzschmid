@@ -1,10 +1,34 @@
-### Hi I am Lorenz, 
-##Fullstack Developer from Berlin, 
+# 👋 Hi, I'm Lorenz  
+### Fullstack Developer from Berlin, focusing on building secure and reliable web applications  
 
 ---
-- I am growing in building and understanding secure web applications. 
-- Write me a message: schmid_lorenz@gmx.net
 
+I work on projects that combine **software development and information security**, with an emphasis on **secure architecture, system hardening, and automation**.  
+My goal is to design applications that are not only functional, but resilient against real-world threats.
+
+📫 **Contact:** lorenzschmid.job@proton.me 
+🌐 **Location:** Berlin, Germany  
+
+---
+
+## 🧱 Tech & Security Stack
+
+**Languages:**  
+JavaScript • Python • Bash • SQL  
+
+**Frameworks & Libraries:**  
+React • Next.js • Node.js • Express • Vite • Chakra-UI 
+
+**Databases:**  
+MongoDB • PostgreSQL • Redis
+
+**Operating Systems & Tools:**  
+Ubuntu • Kali Linux • Arch btw. • ParotOS • Docker • Ansible • Git • GitHub • Nginx • ELK / Wazuh 
+
+**Security Focus:**  
+Authentication & Encryption • Secure Coding (OWASP) • Network Security • System Hardening • Logging & Monitoring  
+
+---
   
 <hr>
 
