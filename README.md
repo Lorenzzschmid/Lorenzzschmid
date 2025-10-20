@@ -28,6 +28,10 @@ Ubuntu • Kali Linux • Arch btw. • ParotOS • Docker • Ansible • Git �
 **Security Focus:**  
 Authentication & Encryption • Secure Coding (OWASP) • Network Security • System Hardening • Logging & Monitoring  
 
+## 🧾 Certifications  
+CompTIA Network+ • CompTIA Security+ • CompTIA Linux+
+
+
 ---
   
 <hr>
