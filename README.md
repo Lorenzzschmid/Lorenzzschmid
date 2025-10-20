@@ -62,7 +62,8 @@ Authentication & Encryption • Secure Coding (OWASP) • Network Security • S
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-darkred?style=for-the-badge)
-![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?style=for-the-badge)
+![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?style=for-the-badge) 
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-success?style=for-the-badge&logo=tryhackme&logoColor=white)
 
   <br>
 
