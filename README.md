@@ -60,6 +60,10 @@ Authentication & Encryption • Secure Coding (OWASP) • Network Security • S
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-darkred?style=for-the-badge)
+![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?style=for-the-badge)
+
   <br>
 
   <h2 align"center>:triangular_flag_on_post:Overview:triangular_flag_on_post:</h2>
